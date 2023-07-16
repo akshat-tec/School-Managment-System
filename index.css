@@ -1,0 +1,27 @@
+#carouselExampleControls{
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+}
+.row row-cols-1 row-cols-md-2 g-4{
+    padding: 500px;
+}
+.card{
+    padding: 30px;
+   
+    width: 700px;
+    height: 500px;
+}
+.img-fluid rounded-start{
+    width: 100px;
+    height: 100px;
+
+}
+#carouselExampleControls{
+    padding: 50px;
+    padding-top: 0px;
+}
+.carouse-item{
+    height: 800px;
+    width: 100px;
+}
